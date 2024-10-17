@@ -12,8 +12,11 @@ import java.util.UUID;
 public class AppointmentRequestDTO {
 
     private UUID patientId;
+
     private UUID doctorId;
+
     private LocalDateTime appointmentTime;
+
     private String appointmentType;
 }
 

@@ -17,6 +17,6 @@ public class AdminDTO {
 
     private String username;
 
-    private String role; // e.g., ROLE_ADMIN, ROLE_MANAGER
+    private String role;
 }
 
